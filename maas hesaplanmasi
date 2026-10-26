@@ -1,5 +1,5 @@
 # iscinin maasinin ve ayliq maasini daxil et 
-maas =float(inout (iscinin maasini daxil et :))
-bonus = float(inout (iscinin bonusunu daxil ed :))
-umimi_gelir = maas + bobus 
-print(f"iscinin umumi gelir:{umumi gelr}")
+maas =float(input (iscinin maasini daxil et :))
+bonus = float(input (iscinin bonusunu daxil ed :))
+umumi_gelir = maas + bonus  
+print(f"iscinin umumi gelir:{umumi_gelir }")
