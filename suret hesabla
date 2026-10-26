@@ -1,0 +1,7 @@
+# gedilen mesafeni ve serf olunna vaxti daxil edin 
+gediren_mesafe=float(input(gedilen mesafeni daxil et :))
+vaxt=float(input(serf onunnan vaxti daxil et:))
+# orta sureti hesabla 
+orta_suret=gedilen_mesafe/vaxt
+#netice
+print (f"orta suret :{orta_suret}")
