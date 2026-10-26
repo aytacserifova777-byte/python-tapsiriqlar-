@@ -1,0 +1,5 @@
+# sagirdlerin sayini ve defterin qiymetini daxil et 
+sagirdlerin_sayi=float(input(sagirtlerin sayi))
+defterin_qiymeti=float(input(defterlerin qiymetini daxil et))
+# defterilerin umumi qiymetini hesabla
+umumi_qiymet=sagirdlerin_sayi*defterin_qiymeti
