@@ -1,0 +1,6 @@
+# ikireqemli tam eded elave edin 
+iki_reqemli= float(input(ededi elave edin:))
+# reqemlerin yerini deyisme 
+yeni_eded=(iki_reqemin%10)*10+(ikireqemin//10)
+#netice
+print(f"yeri desilmis eded :{yeni_eded}")
