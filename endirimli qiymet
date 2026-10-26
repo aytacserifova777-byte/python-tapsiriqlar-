@@ -1,0 +1,8 @@
+# istifadeciden mehsulun  ilkin ve endirim faizin al 
+ilkin_qiymet= float (input( mehsulun ilkin qiymetin al))
+endirim_faiz= float(input(mehsulun endirim faizin daxil et ))
+# endirim meblegini ve mehsulun endirimini hesabla
+endirim_memleg=ilkin_qiymet*endrim_faiz/100
+endirimli_qiymet=ilkin_qiymet-endirim_memleg
+#netice
+print(f"mehsulun endirim qiymeti:{endirimli_qiymet}")
